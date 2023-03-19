@@ -13,16 +13,16 @@ const CheckCardList = styled.div`
 	justify-self: auto;
 `
 const CheckList = styled.label`
-border-radius: 24px;
-border: solid 2px;
-border-color:black;
-text-align: center;
-padding: 4px;
-margin: 0.5rem;
-background-color: white;
-width: 90px;
-&:hover,
-&:focus{
+	border-radius: 24px;
+	border: solid 2px;
+	border-color:black;
+	text-align: center;
+	padding: 4px;
+	margin: 0.5rem;
+	background-color: white;
+	width: 90px;
+	&:hover,
+	&:focus{
 	background-color: gray;
 	color: white;
 }
